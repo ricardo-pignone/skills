@@ -156,6 +156,15 @@ Priorize risco de negócio, não percentual de cobertura.
 
 ---
 
+## reverse-engineering-SKILL.md
+
+Para:
+
+- Responsável por analisar soluções existentes através do código-fonte, arquitetura, APIs, eventos, banco de dados, testes e configurações, identificando.
+- Deve gerar documentação técnica e funcional baseada exclusivamente em evidências encontradas na implementação, criando especificações na pasta `/spec`.
+- Use quando for necessário analisar sistemas existentes, realizar engenharia reversa, identificar regras de negócio, mapear fluxos e gerar especificações técnicas.
+
+---
 ## Diretrizes
 
 Sempre:
