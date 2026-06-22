@@ -1,4 +1,4 @@
-# Copilot Instructions - .NET Enterprise
+# Gemini Instructions - .NET Enterprise
 
 ## Contexto
 
